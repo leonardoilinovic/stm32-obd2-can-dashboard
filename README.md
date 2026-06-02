@@ -59,14 +59,17 @@ LVGL GUI          CSV Logger + Live Graphs
 The embedded device displays live OBD-II data directly on a 3.5" ILI9488 TFT screen using LVGL.
 
 ![TFT dashboard RPM view](images/tft-dashboard-rpm-view.jpeg)
+*RPM dashboard view on the embedded TFT display while receiving live OBD-II data.*
 
 ![TFT dashboard speed view](images/tft-dashboard-speed-view.jpeg)
+*Speed dashboard view on the embedded TFT display.*
 
 ### Python dashboard during vehicle testing
 
 The STM32 board streams decoded OBD-II data over UART / virtual COM port to a Python dashboard running on a laptop.
 
 ![Python dashboard vehicle test](images/python-dashboard-vehicle-test.jpeg)
+*Python dashboard running on a laptop during vehicle testing.*
 
 ---
 
