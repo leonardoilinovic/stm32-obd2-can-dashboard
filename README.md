@@ -170,9 +170,7 @@ The serial logger stores vehicle data such as RPM, speed, coolant temperature, i
 
 The project is functional and was tested on a real vehicle.
 
-The repository is currently being cleaned and documented for public release.  
-The Python dashboard and sample data are available first, while the STM32 firmware will be added after cleaning unnecessary build files and improving documentation.
-
+The repository includes the cleaned STM32 firmware project, Python dashboard, sample data and demo images.
 ---
 
 ## Planned Improvements
